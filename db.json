@@ -253,26 +253,6 @@
       "thumbnail": "https://cdn.tgdd.vn/Files/2019/08/31/1193738/nen-rua-xe-bang-dung-dich-gi-thi-tot-nhat--5.jpg"
     },
     {
-      "id": 23,
-      "title": "DUNG DỊCH LÀM SẠCH MÂM (VÀNH) SONAX",
-      "description": "DUNG DỊCH LÀM SẠCH MÂM (VÀNH) SONAX",
-      "rating": 5,
-      "price": 600.000,
-      "brand": "BMV",
-      "category": "Sản phẩm chăm sóc xe",
-      "thumbnail": "https://cf.shopee.vn/file/6889c01351d12e426c10c99cf4c42d11"
-    },
-    {
-      "id": 24,
-      "title": "BÓNG SƠN 3M",
-      "description": "BÓNG SƠN 3M",
-      "rating": 5,
-      "price": 5800000,
-      "brand": "BMV",
-      "category": "Sản phẩm chăm sóc xe",
-      "thumbnail": "https://multimedia.3m.com/mws/media/928214J/3mtm-quick-wax-39034-16-fl-oz-4-per-case.jpg?width=506"
-    },
-    {
       "id": 2,
       "title": "ẮC QUY HYUNDAI I10 DELKOR DF40AL",
       "description": "Phân phối uy tín, chất lượng tại TST ÔTÔ",
@@ -481,6 +461,26 @@
       "brand": "BESTWYLL",
       "category": "Phụ kiện cho bán tải",
       "thumbnail": "https://giaxeoto.vn/admin/upload/images/gia-phim-bao-ve-son-o-to-ppf-1617266993.jpg"
+    },
+    {
+      "id": 23,
+      "title": "DUNG DỊCH LÀM SẠCH MÂM (VÀNH) SONAX",
+      "description": "DUNG DỊCH LÀM SẠCH MÂM (VÀNH) SONAX",
+      "rating": 5,
+      "price": 600.000,
+      "brand": "BMV",
+      "category": "Sản phẩm chăm sóc xe",
+      "thumbnail": "https://cf.shopee.vn/file/6889c01351d12e426c10c99cf4c42d11"
+    },
+    {
+      "id": 24,
+      "title": "BÓNG SƠN 3M",
+      "description": "BÓNG SƠN 3M",
+      "rating": 5,
+      "price": 5800000,
+      "brand": "BMV",
+      "category": "Sản phẩm chăm sóc xe",
+      "thumbnail": "https://multimedia.3m.com/mws/media/928214J/3mtm-quick-wax-39034-16-fl-oz-4-per-case.jpg?width=506"
     }
   ],
   "posts": [
@@ -501,7 +501,7 @@
     },
     {
       "id": "2",
-      "title": "Tại sao nên dán cách âm ô tô",
+      "title": "Những loại đèn xe chất lượng cao",
       "postDate": "27/03/2023",
       "bodyfirst": "Hiện nay, tại Việt Nam, tốc độ tăng trưởng của ngành ô tô đang tăng cao. Nhằm cạnh tranh và chiếm được chỗ đứng trong lòng khách hàng, các nhà sản xuất phải đưa ra một mức giá cho một chiếc ô tô “phải chăng”, nằm trong phân khúc khách hàng mà các hãng xe hướng đến. Để có một mức giá chiều lòng được khách hàng thì các nhà sản xuất thường chỉ tập trung vào một vài yếu tố như thiết kế, màu sắc, khả năng vận hành, tiện nghi,.. mà cắt bỏ những bước nhỏ lẻ như thực hiện dán cách âm và tiêu âm cho ô tô",
       "bodysecond": "Đó là lý do vì sao tiếng ồn xuất hiện trên xe ô tô, đặc biệt là các dòng xe tầm trung giá rẻ. Đối với các dòng xe này, việc cách âm hầu hết là do thiết kế có sẵn của xe và dĩ nhiên là khả năng cách âm kém, giảm thiểu tiếng ồn không đáng kể.",
@@ -516,7 +516,7 @@
     },
     {
       "id": "3",
-      "title": "Tại sao nên dán cách âm ô tô",
+      "title": "Một số màu sơn đẹp cho ô tô",
       "postDate": "07/03/2022",
       "bodyfirst": "Hiện nay, tại Việt Nam, tốc độ tăng trưởng của ngành ô tô đang tăng cao. Nhằm cạnh tranh và chiếm được chỗ đứng trong lòng khách hàng, các nhà sản xuất phải đưa ra một mức giá cho một chiếc ô tô “phải chăng”, nằm trong phân khúc khách hàng mà các hãng xe hướng đến. Để có một mức giá chiều lòng được khách hàng thì các nhà sản xuất thường chỉ tập trung vào một vài yếu tố như thiết kế, màu sắc, khả năng vận hành, tiện nghi,.. mà cắt bỏ những bước nhỏ lẻ như thực hiện dán cách âm và tiêu âm cho ô tô",
       "bodysecond": "Đó là lý do vì sao tiếng ồn xuất hiện trên xe ô tô, đặc biệt là các dòng xe tầm trung giá rẻ. Đối với các dòng xe này, việc cách âm hầu hết là do thiết kế có sẵn của xe và dĩ nhiên là khả năng cách âm kém, giảm thiểu tiếng ồn không đáng kể.",
@@ -531,7 +531,7 @@
     },
     {
       "id": "4",
-      "title": "Tại sao nên dán cách âm ô tô",
+      "title": "Quy trình bảo hành định kì xe",
       "postDate": "26/03/2023",
       "bodyfirst": "Hiện nay, tại Việt Nam, tốc độ tăng trưởng của ngành ô tô đang tăng cao. Nhằm cạnh tranh và chiếm được chỗ đứng trong lòng khách hàng, các nhà sản xuất phải đưa ra một mức giá cho một chiếc ô tô “phải chăng”, nằm trong phân khúc khách hàng mà các hãng xe hướng đến. Để có một mức giá chiều lòng được khách hàng thì các nhà sản xuất thường chỉ tập trung vào một vài yếu tố như thiết kế, màu sắc, khả năng vận hành, tiện nghi,.. mà cắt bỏ những bước nhỏ lẻ như thực hiện dán cách âm và tiêu âm cho ô tô",
       "bodysecond": "Đó là lý do vì sao tiếng ồn xuất hiện trên xe ô tô, đặc biệt là các dòng xe tầm trung giá rẻ. Đối với các dòng xe này, việc cách âm hầu hết là do thiết kế có sẵn của xe và dĩ nhiên là khả năng cách âm kém, giảm thiểu tiếng ồn không đáng kể.",
