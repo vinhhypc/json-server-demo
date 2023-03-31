@@ -239,17 +239,8 @@
       "brand": "BMV",
       "category": "Độ đèn",
       "thumbnail": "https://otopro.net/image/catalog/bai-viet-do-den/a0bbb8fb-d029-4da0-b423-15862b88d924.jpg"
-    },
-    {
-      "id": 25,
-      "title": "SP trùng",
-      "description": "Bi led X-Light V22 thuộc Sereis các sản phẩm bi led của X-Light và nó cũng là model bán chạy nhất của hãng. X-Light V202công suất lên đến 55w với các ưu điểm nổi bật. Phân phối uy tín, chất lượng tại TST ÔTÔ",
-      "rating": 5,
-      "price": 5800000,
-      "brand": "BMV",
-      "category": "Độ đèn",
-      "thumbnail": "https://otopro.net/image/catalog/bai-viet-do-den/a0bbb8fb-d029-4da0-b423-15862b88d924.jpg"
     }
+    
   ],
   "products": [
     {
@@ -491,6 +482,16 @@
       "brand": "BMV",
       "category": "Sản phẩm chăm sóc xe",
       "thumbnail": "https://multimedia.3m.com/mws/media/928214J/3mtm-quick-wax-39034-16-fl-oz-4-per-case.jpg?width=506"
+    },
+    {
+      "id": 25,
+      "title": "SP trùng",
+      "description": "Bi led X-Light V22 thuộc Sereis các sản phẩm bi led của X-Light và nó cũng là model bán chạy nhất của hãng. X-Light V202công suất lên đến 55w với các ưu điểm nổi bật. Phân phối uy tín, chất lượng tại TST ÔTÔ",
+      "rating": 5,
+      "price": 5800000,
+      "brand": "BMV",
+      "category": "Độ đèn",
+      "thumbnail": "https://otopro.net/image/catalog/bai-viet-do-den/a0bbb8fb-d029-4da0-b423-15862b88d924.jpg"
     }
   ],
   "posts": [
@@ -554,5 +555,108 @@
         "https://vnn-imgs-f.vgcloud.vn/2020/10/21/10/huracan-la-mo-t-trong-nhu-ng-ma-u-xe-de-p-nha-t-cu-a-lamborghini-a-nh-autocar.jpg"
       ]
     }
+  ],
+  "listCourse": [
+    {
+      "key":"1",
+      "id" : 100001,
+      "name":"Bài test số 1",
+      "createDate": "12/09/2023",
+      "questions":0,
+      "people":50,
+      "time":30
+
+    }, {
+      "key":"2",
+      "id" : 100002,
+      "name":"Bài test số 2",
+      "createDate": "12/09/2023",
+      "questions":0,
+      "people":50,
+      "time":30
+
+    }, {
+      "key":"3",
+      "id" : 100003,
+      "name":"Bài test số 3",
+      "createDate": "12/09/2023",
+      "questions":0,
+      "people":50,
+      "time":30
+
+    }, {
+      "key":"4",
+      "id" : 100004,
+      "name":"Bài test số 4",
+      "createDate": "12/09/2023",
+      "questions":0,
+      "people":50,
+      "time":30
+
+    }, {
+      "key":"5",
+      "id" : 100005,
+      "name":"Bài test số 5",
+      "createDate": "12/09/2023",
+      "questions":0,
+      "people":50,
+      "time":30
+
+    }
+  ],
+  "listQuestion":[
+    {"name" : "Hãy chọn đáp án đúng",
+    "image":"",
+    "answer" :[
+      {"answerOne" : {
+      "title" :"Đáp án 1",
+      "status": "true"
+    },
+    "answerTwo" : {
+      "title" :"Đáp án 2",
+      "status": "false"
+    },
+    "answerThree" : {
+      "title" :"Đáp án 3",
+      "status": "false"
+    },
+    "answerFour" : {
+      "title" :"Đáp án 4",
+      "status": "false"
+    }}],
+    "level":"hard",
+    "time" : 15,
+    "createDate" :"12/09/2023",
+    "key":"1"
+
+    
+  },
+  {"name" : "Show several parts of progress with different status.",
+  "image":"",
+  "answer":[{
+    "answerOne" : {
+      "title" :" It is recommended to",
+      "status": "true"
+    },
+    "answerTwo" : {
+      "title" :"You can set a custom text",
+      "status": "false"
+    },
+    "answerThree" : {
+      "title" :" You can get a dashboard",
+      "status": "false"
+    },
+    "answerFour" : {
+      "title" :"A dynamic progress bar is better.",
+      "status": "false"
+    }
+  }],
+  "level":"easy",
+  "time" : 10,
+  "createDate" :"13/09/2023",
+  "key":"2"
+
+  
+}
   ]
 }
