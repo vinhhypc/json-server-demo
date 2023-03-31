@@ -239,17 +239,8 @@
       "brand": "BMV",
       "category": "Độ đèn",
       "thumbnail": "https://otopro.net/image/catalog/bai-viet-do-den/a0bbb8fb-d029-4da0-b423-15862b88d924.jpg"
-    },
-    {
-      "id": 25,
-      "title": "SP trùng",
-      "description": "Bi led X-Light V22 thuộc Sereis các sản phẩm bi led của X-Light và nó cũng là model bán chạy nhất của hãng. X-Light V202công suất lên đến 55w với các ưu điểm nổi bật. Phân phối uy tín, chất lượng tại TST ÔTÔ",
-      "rating": 5,
-      "price": 5800000,
-      "brand": "BMV",
-      "category": "Độ đèn",
-      "thumbnail": "https://otopro.net/image/catalog/bai-viet-do-den/a0bbb8fb-d029-4da0-b423-15862b88d924.jpg"
     }
+    
   ],
   "products": [
     {
@@ -491,6 +482,16 @@
       "brand": "BMV",
       "category": "Sản phẩm chăm sóc xe",
       "thumbnail": "https://multimedia.3m.com/mws/media/928214J/3mtm-quick-wax-39034-16-fl-oz-4-per-case.jpg?width=506"
+    },
+    {
+      "id": 25,
+      "title": "SP trùng",
+      "description": "Bi led X-Light V22 thuộc Sereis các sản phẩm bi led của X-Light và nó cũng là model bán chạy nhất của hãng. X-Light V202công suất lên đến 55w với các ưu điểm nổi bật. Phân phối uy tín, chất lượng tại TST ÔTÔ",
+      "rating": 5,
+      "price": 5800000,
+      "brand": "BMV",
+      "category": "Độ đèn",
+      "thumbnail": "https://otopro.net/image/catalog/bai-viet-do-den/a0bbb8fb-d029-4da0-b423-15862b88d924.jpg"
     }
   ],
   "posts": [
